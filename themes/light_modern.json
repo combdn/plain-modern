@@ -40,6 +40,8 @@
     "editor.selectionBackground": "#D2ECFF",
     "editor.selectionHighlightBackground": "#00000000",
     "editor.selectionHighlightBorder": "#6E7681",
+    "editorBracketMatch.background": "#00FF5957",
+    "editorBracketMatch.border": "#00000000",
     // "editor.wordHighlightBackground": "#ddeaf0",
     "editorCursor.foreground": "#0099ff",
     "editorGroup.border": "#E5E5E5",
