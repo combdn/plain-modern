@@ -6,6 +6,6 @@ A light theme with almost no highlighting for [Visual Studio Code](http://code.v
 
 If you highlight everything, you highlight nothing. My brain just struggles to parse regular themes. Also, I cannot comprehend information in dark mode.
 
-So the Plain Theme only separates comments from code. A little touch is highlighting the matching brackets. And of course, it’s a light theme.
+So the Plain Theme only separates comments from code. A little touch is highlighting the matching brackets and folded sections. And of course, it’s a light theme.
 
-![Screenshot]()
+![Screenshot](https://raw.githubusercontent.com/combdn/plain-modern/refs/heads/main/screenshot.png)
