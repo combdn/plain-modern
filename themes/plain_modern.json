@@ -1,7 +1,7 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "name": "Default Light Modern",
-  "include": "./light_plus.json",
+  "include": "./plain_modern_plus.json",
   "colors": {
     "editor.foldBackground": "#00ff5928",
     "activityBar.activeBorder": "#005FB8",

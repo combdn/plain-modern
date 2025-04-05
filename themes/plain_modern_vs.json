@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Light (Visual Studio)",
+  "name": "Plain Modern (Visual Studio)",
   "colors": {
     "checkbox.border": "#919191",
     "editor.background": "#FFFFFF",

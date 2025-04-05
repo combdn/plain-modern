@@ -1,3 +1,5 @@
+<!-- ![Screenshot](https://raw.githubusercontent.com/combdn/plain-modern/refs/heads/main/icon.png) -->
+![Screenshot](icon.png)
 # Plain Modern Theme
 
 A light theme with almost no highlighting for [Visual Studio Code](http://code.visualstudio.com). It is based on the default Light Modern theme. I use it with [JetBrains Icon Theme](https://marketplace.visualstudio.com/items?itemName=chadalen.vscode-jetbrains-icon-theme).
